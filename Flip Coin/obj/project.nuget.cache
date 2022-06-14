@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JgL8xz39wAMR2MWyFO0QcM2FYcrCmFdAfGX3JJvm7uYpJm5ZnG21JkFQnb91rarfvSWiriDcFFF6ja/8reWZJw==",
+  "success": true,
+  "projectFilePath": "E:\\BridgeLabz2\\New folder\\Flip Coin\\Flip Coin\\Flip Coin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vaibhav\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

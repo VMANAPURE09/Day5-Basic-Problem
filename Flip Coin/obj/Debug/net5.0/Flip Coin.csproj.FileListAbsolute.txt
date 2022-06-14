@@ -1,0 +1,16 @@
+E:\BridgeLabz2\New folder\Flip Coin\Flip Coin\bin\Debug\net5.0\Flip Coin.exe
+E:\BridgeLabz2\New folder\Flip Coin\Flip Coin\bin\Debug\net5.0\Flip Coin.deps.json
+E:\BridgeLabz2\New folder\Flip Coin\Flip Coin\bin\Debug\net5.0\Flip Coin.runtimeconfig.json
+E:\BridgeLabz2\New folder\Flip Coin\Flip Coin\bin\Debug\net5.0\Flip Coin.runtimeconfig.dev.json
+E:\BridgeLabz2\New folder\Flip Coin\Flip Coin\bin\Debug\net5.0\Flip Coin.dll
+E:\BridgeLabz2\New folder\Flip Coin\Flip Coin\bin\Debug\net5.0\Flip Coin.pdb
+E:\BridgeLabz2\New folder\Flip Coin\Flip Coin\obj\Debug\net5.0\Flip Coin.csproj.AssemblyReference.cache
+E:\BridgeLabz2\New folder\Flip Coin\Flip Coin\obj\Debug\net5.0\Flip Coin.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz2\New folder\Flip Coin\Flip Coin\obj\Debug\net5.0\Flip Coin.AssemblyInfoInputs.cache
+E:\BridgeLabz2\New folder\Flip Coin\Flip Coin\obj\Debug\net5.0\Flip Coin.AssemblyInfo.cs
+E:\BridgeLabz2\New folder\Flip Coin\Flip Coin\obj\Debug\net5.0\Flip Coin.csproj.CoreCompileInputs.cache
+E:\BridgeLabz2\New folder\Flip Coin\Flip Coin\obj\Debug\net5.0\Flip Coin.dll
+E:\BridgeLabz2\New folder\Flip Coin\Flip Coin\obj\Debug\net5.0\refint\Flip Coin.dll
+E:\BridgeLabz2\New folder\Flip Coin\Flip Coin\obj\Debug\net5.0\Flip Coin.pdb
+E:\BridgeLabz2\New folder\Flip Coin\Flip Coin\obj\Debug\net5.0\Flip Coin.genruntimeconfig.cache
+E:\BridgeLabz2\New folder\Flip Coin\Flip Coin\obj\Debug\net5.0\ref\Flip Coin.dll
